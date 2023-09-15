@@ -14,66 +14,68 @@
     {
         "id": 2,
         "image": "./Images/Rectangle 2-1.png",
-        "title": "Introduction to C Programming",
+        
+        "title": "Database (MySQL)",
         "credit": 5,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "desc":"A database is an organized collection of structured information, or data, typically stored electronically in a computer system",
         "price": 7584
     },
     {
         "id": 3,
         "image": "./Images/Rectangle 2-3.png",
-        "title": "Introduction to C Programming",
+        "title": "Introduction to Algorithm",
         "credit": 6,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "desc":"It is easy to understand. An algorithm is a step-wise representation of a solution to a given problem",
         "price": 7584
     },
     {
         "id": 4,
         "image": "./Images/Rectangle 2-4.png",
-        "title": "Introduction to C Programming",
+        "title": "Introduction to C++ for DSA",
         "credit": 3,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-        "price": 7584
+        "desc":
+"Data Structures and Algorithms are the building blocks of programming complex solutions." ,       "price": 7584
     },
     {
         "id": 5,
         "image": "./Images/Rectangle 2-5.png",
-        "title": "Introduction to C Programming",
+        "title": "Software Engineering",
         "credit": 7,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-        "price": 7584
+        "desc":
+"Software engineering is an engineering discipline that's applied to the development of software in a systematic approach",        "price": 7584
     },
     {
         "id": 6,
-        "image": "./Images/Rectangle 2-6.png",
-        "title": "Introduction to C Programming",
+        "image": "./Images/py.png",
+        "title": "Introduction to OOP Python",
         "credit": 8,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-        "price": 7584
+        "desc":
+"It was created by Guido van Rossum, and released in 1991. It is used for: web development (server-side),; software development,; mathematics,; system scripting.",        "price": 7584
     },
     {
         "id": 7 ,
-        "image": "./Images/py.png",
-        "title": "Introduction to C Programming",
+        
+        "image": "./Images/Rectangle 2-6.png",
+        "title": "Problem Solving Part",
         "credit": 6,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "desc":"Problem solving is the process of identifying a problem, developing possible solution paths, and taking the appropriate course of action",
         "price": 7584
     },
     {
         "id": 8,
         "image": "./Images/Rectangle 2-1.png",
-        "title": "Introduction to C Programming",
+        "title": "AWS, Cloud Computing",
         "credit": 5,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-        "price": 7584
+        "desc":
+"Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally.",        "price": 7584
     },
     {
         "id": 9,
         "image": "./Images/Rectangle 3.png",
-        "title": "Introduction to C Programming",
+        "title": "Data Structure",
         "credit": 4,
-        "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-        "price": 7584
+        "desc":
+"A data structure is a group of data elements that provides the easiest way to store and perform different actions on the data of the computer.",        "price": 7584
     }
 
 

@@ -3,33 +3,29 @@
 const RightCart = ({selectedCard , count, hour, remaining}) => {
   return (
     <div> 
-      <div className="card w-72 bg-base-100 shadow-xl" >
-      <h2>This is cart</h2>
-      <h2>Credit Hour Remaining {remaining}</h2>
-      <h2>Total Credit : {hour}</h2>
-      <h2>Total : {count}</h2>
-        <h2>Totall Cart : {selectedCard.length}</h2>
+      <div className="card items-start text-start w-72 bg-white shadow-xl" >
+      
+      <h2 className="text-md font-bold mb-4 text-sky-600">Credit Hour Remaining {remaining} hr</h2>
+      <hr/>
+      <h2 className="text-xl mt-4 font-bold">Course Name</h2>
+      
+        
         {
           selectedCard.map((card ,idx)=> (
-            // <div key={idx} >
+            <div key={idx} >
              
-            //   <ol className=" list-disc"> {card.title}</ol>
-            // </div>
+              <ol className=" text-gray-500 mt-4 mb-3 list-decimal list-inside"> {card.title}</ol>
+            </div>
 
-            <div key={idx}>
-        <div >
-  <div className="card-body">
-    <h2 className="card-title">{card.title}</h2>
-    
-    
-  </div>
-</div>
-        </div>
 
 
             
           ))
         }
+        <hr/>
+        <h2 className="text-gray-600 mt-3 mb-3">Total Credit Hour : {hour}</h2>
+        <hr/>
+      <h2 className="text-gray-600 font-bold mt-4">Total Price : {count} USD</h2>
         
 
       </div>

@@ -71,7 +71,7 @@ const Cards = () => {
 
   return (
     
-    <div>
+    <div >
         <h1 className='font-bold text-4xl mb-6'>Course Registration</h1>
         <div className='grid lg:grid-cols-4  gap-4'>
         <div className='card-container grid-cols-1 sm:col-span-1 lg:col-span-3 grid lg:grid-cols-3'>
@@ -80,21 +80,21 @@ const Cards = () => {
            Allcards.map((cards)=>(
              <div key={cards.id}>
              
-              <div className="card w-72 bg-base-100 shadow-xl">
+              <div className="card w-72 shadow-lg h-96 mb-8 gap-4 rounded-md bg-white">
    <figure className="">
      <img src={cards.image} alt="card" className="rounded-xl" />
    </figure>
   
    
    <div className='card-body items-start text-start' >
-   <p className='font-bold'>{cards.title}</p> 
+   <p className='font-bold mt-2 mb-2'>{cards.title}</p> 
      
-     <p>{cards.desc}</p>
+     <p className='mb-2 text-sm text-gray-600'>{cards.desc}</p>
      <div className='flex justify-between items-center text-sm mb-3'>
-         <h1><BiDollar/></h1>
-         <h1>Price : {cards.price}</h1>
+         <h1 className='text-xl'><BiDollar/></h1>
+         <h1 className='mr-2 text-gray-600'>Price : {cards.price}</h1>
          <h1><BsBook/></h1>
-         <h1>Credit : {cards.credit}</h1>
+         <h1 className='text-gray-600'>Credit : {cards.credit}</h1>
      </div>
  
      <div className="card-actions">

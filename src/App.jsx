@@ -4,7 +4,8 @@ import Cards from './Component/Card/Cards';
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-[#F3F3F3]' >
+    
       
       
       <Cards/>
