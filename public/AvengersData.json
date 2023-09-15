@@ -5,7 +5,7 @@
         
         "image": "./Images/Rectangle 2-2.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 4,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         
         "price": 7584
@@ -15,7 +15,7 @@
         "id": 2,
         "image": "./Images/Rectangle 2-1.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 5,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -23,7 +23,7 @@
         "id": 3,
         "image": "./Images/Rectangle 2-3.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 6,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -31,7 +31,7 @@
         "id": 4,
         "image": "./Images/Rectangle 2-4.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 3,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -39,7 +39,7 @@
         "id": 5,
         "image": "./Images/Rectangle 2-5.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 7,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -47,7 +47,7 @@
         "id": 6,
         "image": "./Images/Rectangle 2-6.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 8,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -55,7 +55,7 @@
         "id": 7 ,
         "image": "./Images/py.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 6,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -63,7 +63,7 @@
         "id": 8,
         "image": "./Images/Rectangle 2-1.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 5,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     },
@@ -71,7 +71,7 @@
         "id": 9,
         "image": "./Images/Rectangle 3.png",
         "title": "Introduction to C Programming",
-        "credit": 1,
+        "credit": 4,
         "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "price": 7584
     }
