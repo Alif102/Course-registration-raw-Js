@@ -3,18 +3,21 @@
 const RightCart = ({selectedCard , count, hour, remaining}) => {
   return (
     <div> 
-      <div className="card items-start text-start w-72 bg-white shadow-xl" >
+      <div className="card lg:fixed rounded-lg items-start text-start w-72 bg-white shadow-xl" >
       
       <h2 className="text-md font-bold mb-4 text-sky-600">Credit Hour Remaining {remaining} hr</h2>
       <hr/>
-      <h2 className="text-xl mt-4 font-bold">Course Name</h2>
+      <h2 className="text-xl mt-4 mb-3 font-bold">Course Name</h2>
       
         
         {
-          selectedCard.map((card ,idx)=> (
-            <div key={idx} >
+          selectedCard.map((card )=> (
+            <div key={card.id} >
              
-              <ol className=" text-gray-500 mt-4 mb-3 list-decimal list-inside"> {card.title}</ol>
+              <ol className=" list-inside list-disc text-gray-500 mt-4 mb-3 "> 
+              {card.title}
+              
+              </ol>
             </div>
 
 

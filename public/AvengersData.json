@@ -18,7 +18,7 @@
         "title": "Database (MySQL)",
         "credit": 5,
         "desc":"A database is an organized collection of structured information, or data, typically stored electronically in a computer system",
-        "price": 7584
+        "price": 8784
     },
     {
         "id": 3,
@@ -26,7 +26,7 @@
         "title": "Introduction to Algorithm",
         "credit": 6,
         "desc":"It is easy to understand. An algorithm is a step-wise representation of a solution to a given problem",
-        "price": 7584
+        "price": 7585
     },
     {
         "id": 4,
@@ -34,7 +34,8 @@
         "title": "Introduction to C++ for DSA",
         "credit": 3,
         "desc":
-"Data Structures and Algorithms are the building blocks of programming complex solutions." ,       "price": 7584
+"Data Structures and Algorithms are the building blocks of programming complex solutions." ,     
+  "price": 6594
     },
     {
         "id": 5,
@@ -42,7 +43,7 @@
         "title": "Software Engineering",
         "credit": 7,
         "desc":
-"Software engineering is an engineering discipline that's applied to the development of software in a systematic approach",        "price": 7584
+"Software engineering is an engineering discipline that's applied to the development of software in a systematic approach",        "price": 3584
     },
     {
         "id": 6,
@@ -50,7 +51,7 @@
         "title": "Introduction to OOP Python",
         "credit": 8,
         "desc":
-"It was created by Guido van Rossum, and released in 1991. It is used for: web development (server-side),; software development,; mathematics,; system scripting.",        "price": 7584
+"It was created by Guido van Rossum, and released in 1991. It is used for: web development (server-side),; software development,; mathematics,; system scripting.",        "price": 7084
     },
     {
         "id": 7 ,
@@ -59,15 +60,16 @@
         "title": "Problem Solving Part",
         "credit": 6,
         "desc":"Problem solving is the process of identifying a problem, developing possible solution paths, and taking the appropriate course of action",
-        "price": 7584
+        "price": 7989
     },
     {
         "id": 8,
-        "image": "./Images/Rectangle 2-1.png",
+        "image": "./Images/Rectangle 3-1.png",
         "title": "AWS, Cloud Computing",
         "credit": 5,
         "desc":
-"Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally.",        "price": 7584
+"Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally.",   
+     "price": 7564
     },
     {
         "id": 9,
@@ -75,7 +77,8 @@
         "title": "Data Structure",
         "credit": 4,
         "desc":
-"A data structure is a group of data elements that provides the easiest way to store and perform different actions on the data of the computer.",        "price": 7584
+"A data structure is a group of data elements that provides the easiest way to store and perform different actions on the data of the computer.",
+        "price": 4584
     }
 
 

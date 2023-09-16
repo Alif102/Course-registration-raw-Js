@@ -4,15 +4,10 @@ import Cards from './Component/Card/Cards';
 
 const App = () => {
   return (
-    <div className='bg-[#F3F3F3]' >
-    
-      
-      
+    <div className=' bg-slate-50' >
+ 
       <Cards/>
-          
-      
 
-      
       </div>
 
 

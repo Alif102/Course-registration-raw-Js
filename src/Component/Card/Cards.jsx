@@ -1,6 +1,5 @@
 import { useEffect , useState} from 'react'
 import {BiDollar} from 'react-icons/bi'
-import './Card.css'
 import {BsBook} from 'react-icons/bs'
 import RightCart from '../RightCart'
 import swal from 'sweetalert'
@@ -71,10 +70,10 @@ const Cards = () => {
 
   return (
     
-    <div >
+    <div className='py-16' >
         <h1 className='font-bold text-4xl mb-6'>Course Registration</h1>
         <div className='grid lg:grid-cols-4  gap-4'>
-        <div className='card-container grid-cols-1 sm:col-span-1 lg:col-span-3 grid lg:grid-cols-3'>
+        <div className=' grid-cols-1 sm:col-span-1 lg:col-span-3 grid lg:grid-cols-3'>
          
          {
            Allcards.map((cards)=>(
